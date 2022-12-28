@@ -1,7 +1,9 @@
 # Tugas Pertemuan 14
 
 Nama  : Ferdyana Eka Prsetya
+
 Nim   : 312210121
+
 Kelas  : T1.22.A1
 
 ## Python String
@@ -22,12 +24,12 @@ Kelas  : T1.22.A1
 
 - Untuk menghitung jumlah karakter, gunakan fungsi len().
 
-````
+```
 # Menghitung jumlah karakternya
 print(len(txt))
 ```
 
-- Cara mengambil satu karakter pada string yaitu dengan menggunakan kurung siku [ ] dan deklarasi nomor di dalam kurung siku dengan urutan ARRAY dan menggunakan titik dua lalu masukan nomor ARRAY selanjutnya. Untuk mengambil karakter terakhir, gunakan *index [-1]. Sedangkan untuk mengambil karakter *index ke-2 sampai ke-4, gunakan index [2:5].
+- Cara mengambil satu karakter pada string yaitu menggunakan kurung siku [ ] dan deklarasi nomor di dalam kurung siku dengan urutan ARRAY lalu menggunakan titik dua kemudian masukan nomor ARRAY selanjutnya. Untuk mengambil karakter terakhir, gunakan *index [-1]. Sedangkan untuk mengambil karakter *index ke-2 sampai ke-4, gunakan index [2:5].
 
 ```
 # Mengambil karakter terakhir
@@ -38,7 +40,7 @@ print(txt[2:5])
 
 - Jika ingin menghilangkan spasi pada string, gunakan method replace(). Method replace() mengganti semua kemunculan string lama dengan yang baru atau paling banyak kemunculan.
 
-- Di dalam method replace, kita dapat menggunakan 2 cara, yang pertama bisa menggunakan (txt.replace(" ", "")) dan kedua dengan cara (txt.replace(txt[5], "")).
+- Dalam method replace, kita dapat menggunakan 2 cara, yang pertama bisa menggunakan (txt.replace(" ", "")) dan kedua dengan cara (txt.replace(txt[5], "")).
 
 ```
 # Menghilangkan spasi pada text tersebut (HelloWorld)
