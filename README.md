@@ -70,6 +70,7 @@ print()
 
 ### Latihan 2
 
+![image](https://user-images.githubusercontent.com/115714443/209820061-3d56b924-7885-45e4-ad2d-2df9a96861d0.png)
 
 #### Penjelasan
 
