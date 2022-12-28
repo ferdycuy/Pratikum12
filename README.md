@@ -45,7 +45,11 @@ print(txt[2:5])
 ```
 # Menghilangkan spasi pada text tersebut (HelloWorld)
 print(txt.replace(" ", ""))
-Untuk mengubah huruf menjadi besar, gunakan method upper(). Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan method lower().
+```
+
+- Untuk mengubah huruf menjadi besar, gunakan method upper(). Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan method lower().
+
+```
 # Mengubah text menjadi huruf besar
 print(txt.upper())
 # Mengubah text menjadi huruf kecil
